@@ -11,6 +11,7 @@ In the FoveaGAN, we reconstruct a plausible peripheral video from a small fracti
 ____________________________________________________________________________________________________
 
 FoveaGAN model for Foveation has been implemented on Pytorch <br/>
+
 Prerequisites:
 ```
 
