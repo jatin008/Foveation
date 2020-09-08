@@ -72,3 +72,14 @@ ________________________________________________________________________________
 #### Sampling Function
 
 ![Sampling Function](https://github.com/jatin008/Foveation/blob/master/Assets/Sampling_Function.JPG)
+
+
+#### Authors:
+
+| Name | github handle |
+| ---- | ------ |
+| Jatin Dawar | [@jatin008](https://github.com/jatin008) |
+| Prem Raheja     | [@prem1409](https://github.com/prem1409) |
+| Utkarsh Vashisth     | [@uvashisth](https://github.com/uvashisth) |
+| Vaibhav Rakheja | [@vaibhavrakheja11](https://github.com/vaibhavrakheja11) |
+
