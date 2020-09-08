@@ -14,13 +14,47 @@ FoveaGAN model for Foveation has been implemented on Pytorch <br/>
 
 Prerequisites:
 ```
-
 numpy==1.17.3
 Pillow==6.2.1
 opencv-python
-
 ```
 Install requirements.txt available in the FoveaGAB folder using the following command
 ```
 pip install -r requirements.txt
 ```
+
+Steps to run the code are as follows:
+
+1. Clone the github repo.
+
+2. Install Python from:-
+        https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe
+
+3. Open command prompt and go to the folder location "FoveaGAN"
+        cd "FoveaGAN"
+
+4. If the  computer has Nvidia Graphic Card then
+        pip install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+    else 
+        pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+##### To train the network (Pretrained weights are already present, so, no need to train the network)
+____________________________________________________________________________________________________
+
+1. Open command prompt and go to the folder location "FoveaGAN"
+        cd "FoveaGAN"
+2. Type:
+        python "train.py"
+        
+##### Use the pretrained network to generate Foveated Video
+____________________________________________________________________________________________________
+1. Put the test images in folder sampled_images
+
+2. Open command prompt and go to folder location "GANS"
+        cd "FoveaGAN"
+        
+3. Type:
+        python "foveate_video.py"
+        
+4. Output will be in the folder "Output"
