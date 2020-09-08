@@ -7,7 +7,6 @@ artifacts in the periphery, or, if done conservatively, would provide only modes
 In the FoveaGAN, we reconstruct a plausible peripheral video from a small fraction of pixels provided in every frame. The reconstruction is done by finding the closest matching video to this sparse input stream of pixels on the learned manifold of different videos.
 
 #### Project
-
 ____________________________________________________________________________________________________
 
 FoveaGAN model for Foveation has been implemented on Pytorch <br/>
