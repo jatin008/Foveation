@@ -61,4 +61,14 @@ ________________________________________________________________________________
 ### Overall Architecture
 ____________________________________________________________________________________________________
 
+#### Generator
+
 ![Generator](https://github.com/jatin008/Foveation/blob/master/Assets/Generator.JPG)
+
+#### Discriminator
+
+![Discriminator](https://github.com/jatin008/Foveation/blob/master/Assets/Descriminatior.JPG)
+
+#### Sampling Function
+
+![Sampling Function](https://github.com/jatin008/Foveation/blob/master/Assets/Sampling_Function.JPG)
