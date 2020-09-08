@@ -61,4 +61,4 @@ ________________________________________________________________________________
 ### Overall Architecture
 ____________________________________________________________________________________________________
 
-![Generator](https://github.com/jatin008/Foveation/master/Assets/Generator.JPG)
+![Generator](https://github.com/jatin008/Foveation/blob/master/Assets/Generator.JPG)
