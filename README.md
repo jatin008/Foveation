@@ -13,7 +13,6 @@ FoveaGAN model for Foveation has been implemented on Pytorch <br/>
 
 Prerequisites:
 ```
-
 numpy==1.17.3
 Pillow==6.2.1
 opencv-python
@@ -21,9 +20,7 @@ opencv-python
 ```
 Install requirements.txt available in the FoveaGAB folder using the following command
 ```
-
 pip install -r requirements.txt
-
 ```
 
 Steps to run the code are as follows:
