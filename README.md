@@ -57,3 +57,8 @@ ________________________________________________________________________________
         python "foveate_video.py"
         
 4. Output will be in the folder "Output"
+
+### Overall Architecture
+____________________________________________________________________________________________________
+
+![Generator](https://github.com/jatin008/Foveation/blob/master/Assets/Generator.jpg)
